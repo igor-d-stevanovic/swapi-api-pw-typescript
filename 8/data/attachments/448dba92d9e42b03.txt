@@ -1,0 +1,1 @@
+GET /api/vehicles/9999/ -> 404 (184 ms)

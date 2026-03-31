@@ -1,0 +1,2 @@
+GET /api/species/ -> 200 (1182 ms)
+GET /api/species/ -> 200 (3066 ms)

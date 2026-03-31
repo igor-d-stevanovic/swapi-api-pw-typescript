@@ -1,0 +1,2 @@
+GET /api/starships/ -> 200 (989 ms)
+GET /api/starships/ -> 200 (1399 ms)

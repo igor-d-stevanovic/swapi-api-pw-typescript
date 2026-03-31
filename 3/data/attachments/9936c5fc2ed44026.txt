@@ -1,0 +1,1 @@
+GET /api/vehicles/6/ -> 200 (195 ms)

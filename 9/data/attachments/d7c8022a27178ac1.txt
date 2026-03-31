@@ -1,0 +1,2 @@
+GET /api/planets/ -> 200 (274 ms)
+GET /api/planets/ -> 200 (203 ms)

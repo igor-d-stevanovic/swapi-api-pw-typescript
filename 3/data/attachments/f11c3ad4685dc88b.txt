@@ -1,0 +1,2 @@
+GET /api/films/1/ -> 200 (289 ms)
+GET /api/people/1/ -> 200 (175 ms)
