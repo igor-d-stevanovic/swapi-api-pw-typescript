@@ -1,0 +1,30 @@
+{
+  "name": "swapi-api-pw-typescript",
+  "version": "1.0.0",
+  "description": "Playwright + TypeScript API testing framework for SWAPI (Star Wars API)",
+  "scripts": {
+    "test": "playwright test",
+    "test:smoke": "playwright test --grep @smoke",
+    "test:serial": "playwright test --workers=1",
+    "typecheck": "tsc --noEmit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igor-d-stevanovic/swapi-api-pw-typescript.git"
+  },
+  "keywords": [],
+  "author": "igor-d-stevanovic",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/igor-d-stevanovic/swapi-api-pw-typescript/issues"
+  },
+  "homepage": "https://github.com/igor-d-stevanovic/swapi-api-pw-typescript#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.5.0",
+    "allure-playwright": "^3.6.0",
+    "typescript": "^6.0.2",
+    "zod": "^4.3.6"
+  }
+}
